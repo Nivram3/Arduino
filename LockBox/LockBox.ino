@@ -15,6 +15,7 @@
  * piezo uses analog pin A0
  * 
  * Tinkercad circuit link: https://www.tinkercad.com/things/7rCGxMmiFTF-knock-lock-box-/editel
+   * NOTE: The DC Motor in the circuit is to represent tinfoil
 
  Project Notes:
  - COULD PROBABLY MAKE A KNOCK/TOUCH DETECTOR BASED ON TIMINGS AND VALUES OF CAPACITIVE SENSOR, HENCE NO KNOCK HEARING BY PEOPLE NEARBY
