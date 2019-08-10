@@ -4,7 +4,7 @@
 
 /* 
  * Arduino Knock Lock Box with Piezo/Capacitive Touch Alarm System and Servo Lock
- * Built Using Projecs 11, 12, 13 from the Arduino Projects Book and 
+ * Built Using Projects 11, 12, 13 from the Arduino Projects Book and 
  * Steve Hoefer's "Secret Knock Detecting Door Lock" from: https://www.instructables.com/id/Secret-Knock-Detecting-Door-Lock/
  * 
  * LCD uses pins 2 - 7 
